@@ -1,0 +1,17 @@
+{
+  "name": "demock-examples",
+  "version": "0.0.0",
+  "description": "Demock usage examples",
+  "main": "express.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/atesgoral/demock-examples.git"
+  },
+  "author": "Ates Goral",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.7.4",
+    "morgan": "^1.2.2",
+    "demock-express": "0.0.0"
+  }
+}
