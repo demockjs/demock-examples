@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.7.4",
     "morgan": "^1.2.2",
-    "demock-express": "0.0.0"
+    "demock-express": "0.0.0",
+    "body-parser": "^1.6.0"
   }
 }
