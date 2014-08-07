@@ -1,6 +1,6 @@
 {
   "name": "demock-examples",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/atesgoral/demock-examples",
   "authors": [
     "Ates Goral <ates@magnetiq.com>"
@@ -11,7 +11,7 @@
     "bootstrap": "~3.1.1",
     "jquery": "~2.1.0",
     "angular": "~1.2.13",
-    "demock": "~0.0.0",
+    "demock": "~0.1.0",
     "demock-jquery": "~0.0.0",
     "demock-angular": "~0.0.0"
   }
